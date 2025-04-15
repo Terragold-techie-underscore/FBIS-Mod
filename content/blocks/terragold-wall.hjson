@@ -1,0 +1,9 @@
+{
+  type: "wall",
+  name: "terragold-wall",
+  health: 1200,
+  size: 1,
+  insulated: true,
+  requirements:
+    terragold: 6
+}
