@@ -1,0 +1,13 @@
+[
+  {
+    type: "item",
+    name: "terragold",
+    color: "#74ff00", // bright green!
+    hardness: 3,
+    cost: 2,
+    radioactivity: 0.1,
+    explosiveness: 0.2,
+    flammability: 0,
+    charge: 0
+  }
+]
