@@ -1,7 +1,7 @@
 {
   "type": "Turret",
-  "name": "rapid-blaster",
-  "localizedName": "Rapid Blaster",
+  "name": "ear-destroyer",
+  "localizedName": "Ear Destroyer",
   "description": "Oh! My ears burn!",
   "category": "turret",
   "requirements": [
