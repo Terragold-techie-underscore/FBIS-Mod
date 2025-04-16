@@ -2,7 +2,7 @@
   {
     type: "item",
     name: "terragold",
-    color: "#74ff00", // bright green!
+    color: "#74ff00", 
     hardness: 3,
     cost: 2,
     radioactivity: 0.1,
