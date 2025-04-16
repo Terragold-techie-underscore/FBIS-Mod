@@ -2,29 +2,29 @@
   "type": "Turret",
   "name": "rapid-blaster",
   "shootSound": "MyEars", 
-  "reloadTime": 0.5,
-  "shots": 1,
-  "inaccuracy": 1,
-  "shootCone": 10,
-  "rotateSpeed": 20,
+  "reloadTime": 0.4, // Faster reload for more rapid firing
+  "shots": 2, // Fire two shots for increased damage output
+  "inaccuracy": 0.5, // Improved accuracy
+  "shootCone": 8, // Narrower cone for targeting
+  "rotateSpeed": 25, // Faster rotation speed for quicker target acquisition
   "targetAir": false,
   "targetGround": true,
   "ammoPerShot": 1,
-  "range": 150,
-  "recoil": 0.5,
-  "cooldownTime": 0.2,
+  "range": 180, // Increased range for better coverage
+  "recoil": 0.3, // Reduced recoil for stability
+  "cooldownTime": 0.15, // Reduced cooldown for quicker follow-up shots
   "size": 2,
-  "health": 300,
+  "health": 350, // Increased health for durability
   "ammo": [
     {
       "item": "copper",
       "bullets": [
         {
-          "speed": 5,
-          "damage": 10,
-          "lifetime": 30,
-          "width": 5,
-          "height": 9,
+          "speed": 6, // Faster bullets
+          "damage": 12, // Higher damage per bullet
+          "lifetime": 35, // Longer lifetime for bullets
+          "width": 6, // Slightly wider bullets
+          "height": 10, // Slightly taller bullets
           "pierce": false,
           "hittables": ["ground"],
           "despawnEffect": "hitBulletSmall"
@@ -32,5 +32,5 @@
       ]
     }
   ],
-  "description": "Insanely fast copper blaster. Melts ground units with a satisfying railgun sound."
+  "description": "oh! my ears burn!"
 }
