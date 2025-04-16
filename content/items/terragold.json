@@ -1,11 +1,10 @@
-{
-  "type": "Item",
-  "name": "terragold",
-  "localizedName": "Terragold",
-  "description": "Yoink",
-  "color": "74ff00",
-  "radioactivity": 0.2,
-  "flammability": 0.05,
-  "hardness": 3,
-  "cost": 3.0
-}
+
+    "hardness": 1,
+    "cost": 7,
+    "radioactivity": 0,
+    "name": "Terragold",
+    "color": "74ff00",
+    "research": {
+       
+    
+  }
