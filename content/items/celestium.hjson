@@ -1,0 +1,9 @@
+{
+    "hardness": 2,
+    "cost": 8,
+    "radioactivity": 0,
+    "name": "Celestium",
+    "color": "8A2BE2",
+    "research": {
+    }
+}
