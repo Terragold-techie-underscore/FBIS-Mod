@@ -1,0 +1,43 @@
+{
+  "type": "Turret",
+  "name": "rapid-blaster",
+  "localizedName": "Rapid Blaster",
+  "description": "Oh! My ears burn!",
+  "category": "turret",
+  "requirements": [
+    { "item": "copper", "amount": 50 },
+    { "item": "lead", "amount": 40 }
+  ],
+  "shootSound": "shoot-small",
+  "reloadTime": 0.4,
+  "shots": 2,
+  "inaccuracy": 0.5,
+  "shootCone": 8,
+  "rotateSpeed": 25,
+  "targetAir": false,
+  "targetGround": true,
+  "ammoPerShot": 1,
+  "range": 180,
+  "recoil": 0.3,
+  "cooldownTime": 0.15,
+  "size": 2,
+  "health": 350,
+  "ammo": [
+    {
+      "item": "copper",
+      "bullets": [
+        {
+          "speed": 6,
+          "damage": 12,
+          "lifetime": 35,
+          "width": 6,
+          "height": 10,
+          "pierce": false,
+          "hittables": ["ground"],
+          "despawnEffect": "hitBulletSmall"
+        }
+      ]
+    }
+  ]
+}
+ 
