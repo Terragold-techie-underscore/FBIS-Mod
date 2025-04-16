@@ -2,8 +2,8 @@
   "type": "Item",
   "name": "terragold",
   "localizedName": "Terragold",
-  "description": "A radiant, nanite-infused alloy forged from stabilized phase energy. Essential for powering cutting-edge technology and advanced unit cores.",
-  "color": "74ff00",  // Bright neon green
+  "description": "Yoink",
+  "color": "74ff00",
   "radioactivity": 0.2,
   "flammability": 0.05,
   "hardness": 3,
