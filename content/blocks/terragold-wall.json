@@ -5,5 +5,5 @@
   "size": 1,
   "insulated": true,
   "requirements":
-    terragold: 6
+    "terragold": 6
 }
