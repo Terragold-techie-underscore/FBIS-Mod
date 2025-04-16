@@ -1,15 +1,14 @@
-{
-  "type": "Wall",
-  "name": "terragold-wall",
-  "localizedName": "Terragold Wall",
-  "description": "An ultra-resilient wall reinforced with Terragold nanite lattices. Slightly regenerates over time and glows with unrelenting defiance.",
-  "health": 1500,
-  "size": 1,
-  "requirements": [
-    { "item": "terragold", "amount": 6 }
-  ],
-  "insulated": true,
-  "lightColor": "74ff00",
-  "lightRadius": 10,
-  "lightOpacity": 0.15
+{    
+    "type": "Wall",
+    "name": "Terragold Wall",
+    "health": 69420,
+    "size": 1,
+    "alwaysUnlocked": true,
+    "requirements": [
+     "terragold/69"
+    ],
+    "category": "defense",
+    "research": {
+    
+    }
 }
